@@ -59,6 +59,7 @@
 
 11. Wash - Agrax Earthshade
 
+12. Highlight - Gehenna's Gold
 ## Bases
 
 ### Tau Desert Base
