@@ -24,6 +24,7 @@ Steam for 25 - 30 minutes. Skin quickly.
 Dried thyme, sage, garlic, onion powder and kosher salt
 
 **Pav Bhaji**
+
 *Note: this does not attempt to be authentic in any way. Consider it to be
 pav bhaji inspired.*
 
@@ -39,6 +40,7 @@ add a can of diced tomatoes. Stir in 1 tsp of turmeric, 1 tsp of chili powder, 1
 Protein options: frozen peas, chickpeas, tofu chunks.
 
 Drain veggies and add to sauce pan. Lightly mash veggies. Stir and simmer. If too thick, add coconut milk.
+Salt to taste.
 
 You can serve this with rice, but honestly it's delicious and hearty by itself. Traditionally it's served with
 bread.
