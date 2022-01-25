@@ -1,0 +1,20 @@
+{
+   "production": [
+        {
+            "date": "2022-01-20",
+            "color": "white",
+            "flour": "King Arthur",
+            "quantity": 2,
+            "type": "French bread",
+            "duration": "day"
+        },
+        {
+            "date": "2022-01-24",
+            "color": "white",
+            "flour": "King Arthur",
+            "quantity": 2,
+            "type": "French bread",
+            "duration": "day"
+        }
+    ] 
+}
