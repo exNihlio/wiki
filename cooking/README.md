@@ -23,6 +23,8 @@ Steam for 25 - 30 minutes. Skin quickly.
 
 Dried thyme, sage, garlic, onion powder and kosher salt
 
+---
+
 **Pav Bhaji**
 
 *Note: this does not attempt to be authentic in any way. Consider it to be
@@ -44,3 +46,5 @@ Salt to taste.
 
 You can serve this with rice, but honestly it's delicious and hearty by itself. Traditionally it's served with
 bread.
+
+---
