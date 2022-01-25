@@ -5,7 +5,10 @@
             "color": "white",
             "flour": "King Arthur",
             "quantity": 2,
+            "shape": "round",
             "type": "French bread",
+            "levain": false,
+            "preferment": false,
             "duration": "day"
         },
         {
@@ -13,7 +16,10 @@
             "color": "white",
             "flour": "King Arthur",
             "quantity": 2,
+            "shape": "round",
             "type": "French bread",
+            "levain": false,
+            "preferment": false,
             "duration": "day"
         }
     ] 
