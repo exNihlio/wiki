@@ -21,6 +21,17 @@
             "levain": false,
             "preferment": false,
             "duration": "day"
+        },
+        {
+            "date": "2022-01-27",
+            "color": "wheat",
+            "flour": "King Arthur",
+            "quantity": 2,
+            "shape": "round",
+            "type": "French bread",
+            "levain": false,
+            "preferment": false,
+            "duration": "overnight"
         }
     ] 
 }
