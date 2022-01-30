@@ -32,6 +32,28 @@
             "levain": false,
             "preferment": false,
             "duration": "overnight"
+        },
+        {
+            "date": "2022-01-29",
+            "color": "white",
+            "flour": "King Arthur",
+            "quantity": 2,
+            "shape": "round",
+            "type": "French bread",
+            "levain": false,
+            "preferment": false,
+            "duration": "overnight"
+        },
+        {
+            "date": "2022-01-29",
+            "color": "wheat/rye",
+            "flour": "King Arthur",
+            "quantity": 1,
+            "shape": "loaf",
+            "type": "Flax loaf",
+            "levain": false,
+            "preferment": false,
+            "duration": "day"
         }
     ] 
 }
