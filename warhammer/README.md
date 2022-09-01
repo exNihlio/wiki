@@ -22,7 +22,6 @@
 
 9. Yriel Yellow - Weapons
 
-
 ### Imperial Fists - 10th Company
 
 1. Prime - Wraithbone
@@ -60,6 +59,25 @@
 11. Wash - Agrax Earthshade
 
 12. Highlight - Gehenna's Gold
+
+### Iridescent Metal
+
+1. Prime - Black
+
+2. Base - Leadbelcher
+
+3. Recess Shade - Druchii Violet
+
+4. Highlight - Teclis Blue/Leadbelcher
+
+5. Highlight - Xereus Purple/Leadbelcher
+
+6. Highlight - Genestealer Purple/Stormhost Silver
+
+7. Highlight - Lothern Blue/Stormhost Silver
+
+8. Highlight - Stormhost Silver
+
 ## Bases
 
 ### Tau Desert Base
