@@ -8,7 +8,7 @@
 
 2. Mechanicus Standard Grey - metal, gears, cloth
 
-3. Mephiston Red - Antenna, shoulder emblem, etc 
+3. Mephiston Red - Antenna, shoulder emblem, etc
 
 4. Wash - Agrax Earthshade
 
@@ -78,6 +78,22 @@
 
 8. Highlight - Stormhost Silver
 
+### Verminlord
+1. Prime - Wraithbone
+
+2. Shade - Agrax
+
+3. Skin - 90% Morgast Bone + 10% Pink Horror
+
+4. Jewels, rune scars, runes etc - Sybarite Green
+
+5. Jewels - rune scars, runes etc - Moot Green
+
+5. Weapon blades - Retributor Armor
+
+6. Tail - 30% Pink Horror + 70% Morghast Bone
+
+7. Armor - Leadbelcher
 ## Bases
 
 ### Tau Desert Base
