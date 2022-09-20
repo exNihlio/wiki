@@ -94,6 +94,17 @@
 6. Tail - 30% Pink Horror + 70% Morghast Bone
 
 7. Armor - Leadbelcher
+
+### Battletech - Blue
+1. Prime - Tamari Light Grey
+
+2. Base - French Army Blue Grey
+
+3. Base - Nuln Oil
+
+4. Highlight - Ocean Grey
+
+5. Trim - Dunkelgelb?
 ## Bases
 
 ### Tau Desert Base
