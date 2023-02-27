@@ -1,5 +1,5 @@
 ## Introduction
-_Aera-etu-Aezdrad_ (ahra-eh-tu-ahz-drahd) _lit: Air of the Mouth_,
+_Aera-etu-Aezdrad_ (ahra-eh-tu-ahz-drahd) lit: "Air of the Mouth",
 or _Aezdradara_ (ahz-dra-da-ra) is the spoken and written language of
 the  _Endae-etu-Waera_, or _People of the Sea_, know regionally as
 the _Endaewaera_.
