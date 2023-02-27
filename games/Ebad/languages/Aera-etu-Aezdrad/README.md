@@ -4,5 +4,5 @@ know regionally as the _Endaewaera_.
 
 ## Contents
 1. [Lexicon](/games/Ebad/lanugages/Aera-etu-Aedrazad/Lexicon.md)
-2. [Phonemes](/games/Ebad/Languages/Aera-etu-Aedrazad/Phonemes.md)
-3. [Grammar](/games/Ebad/Languages/Aera-etu-Aedrazad/Grammar.md)
+2. [Phonemes](/games/Ebad/languages/Aera-etu-Aedrazad/Phonemes.md)
+3. [Grammar](/games/Ebad/languages/Aera-etu-Aedrazad/Grammar.md)
