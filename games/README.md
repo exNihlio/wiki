@@ -1,6 +1,6 @@
 ## Contents
 
-1. [Ebad](/Ebad/README.md)
+1. [Ebad](/games/Ebad/README.md)
 
 ## Game Ideas
 
