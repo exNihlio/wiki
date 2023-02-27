@@ -3,6 +3,6 @@ _Aera-etu-Aezdrad_ or _Aezdradara_ is the spoken and written language of the  _E
 know regionally as the `_Endaewaera_`. 
 
 ## Contents
-1. [Lexicon](Lexicon.md)
-2. [Phonemes](Phonemes.md)
-3. [Grammar](Grammard.md)
+1. [Lexicon](/games/Ebad/lanugages/Aera-etu-Aedrazad/Lexicon.md)
+2. [Phonemes](/games/Ebad/Languages/Aera-etu-Aedrazad/Phonemes.md)
+3. [Grammar](/games/Ebad/Languages/Aera-etu-Aedrazad/Grammar.md)
