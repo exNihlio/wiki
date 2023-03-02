@@ -7,7 +7,7 @@ the _Endaewaera_.
 ## Contents
 1. [Overview](#Overview)
 2. [Examples](#Examples)
-3. [Lexicon](/games/Ebad/langages/Aera-etu-Aezdrad/Lexicon.md)
+3. [Lexicon](/games/Ebad/languages/Aera-etu-Aezdrad/Lexicon.md)
 4. [Phonemes](/games/Ebad/languages/Aera-etu-Aezdrad/Phonemes.md)
 5. [Grammar](/games/Ebad/languages/Aera-etu-Aezdrad/Grammar.md)
 

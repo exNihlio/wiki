@@ -31,7 +31,7 @@
 | Faetyg          | Woman _form._ (adult)    | Noun        |
 | Faetag          | Girl _form._ (child)     | Noun        |
 | Udaevzd         | Man _form._ (adult)      | Noun        |
-| Gaen            | Boy _form._ child)       | Noun        |
+| Gaen            | Boy _form._ (child)      | Noun        |
 | Kzaeda          | To bring                 | Noun        |
 | Iz/Kaes/Zys     | Is/Was/Will              | Verb        |
 | Y/Ym/Ymz        | I/me/we                  | Pronoun     |
