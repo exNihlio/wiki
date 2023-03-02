@@ -6,17 +6,18 @@ the _Endaewaera_.
 
 ## Contents
 1. [Overview](#Overview)
-2. [Lexicon](/games/Ebad/langages/Aera-etu-Aezdrad/Lexicon.md)
-3. [Phonemes](/games/Ebad/languages/Aera-etu-Aezdrad/Phonemes.md)
-4. [Grammar](/games/Ebad/languages/Aera-etu-Aezdrad/Grammar.md)
+2. [Examples](#Examples)
+3. [Lexicon](/games/Ebad/langages/Aera-etu-Aezdrad/Lexicon.md)
+4. [Phonemes](/games/Ebad/languages/Aera-etu-Aezdrad/Phonemes.md)
+5. [Grammar](/games/Ebad/languages/Aera-etu-Aezdrad/Grammar.md)
 
 ## Overview
 
-Aezdradara is genderless language, with a single-gendered pronoun,
-that has both plural and singular forms. Nouns are highly versatile,
-often being composed of singl e
-
+Aezdradara is genderless language, with a single gender-neutral
+pronoun, that has both plural and singular forms. Nouns and verbs are
+highly versatile and composable, with more complex verbs and meanings
+being formed of several nouns and/or verbs.
 
 ## Examples
 
-_Dae udaevzd kzaedata_
+_Dae udaevzd kzaedaka e kaedan aet dae baeda_ - "The man brings a sword to the boat"

@@ -11,7 +11,10 @@ _Haerata_  --  "I have"
 
 _Haertow_  --  "We have"
 
-_Haerak_ -- "They have"
+_Haerak_ -- "They have" (singular)
+
+_Haeraka_ -- "They have" (singular)
+
 
 Examples:
 
@@ -23,8 +26,8 @@ _Kaetata haerak e kaedan_ -- "They have a sword"
 
 ### Tense
 
-Verbs do not have their own tense, tense is given by the modifier of:
-_is_.
+Verbs do not have their own tense, tense is given by the conjugation
+of: _iz_.
 
 _Haerata-kaes_ -- had, lit. "have was"
 

@@ -8,6 +8,7 @@
 | Etu             | Of/From                  | Preposition |
 | Yae             | Yes                      | Determiner  |
 | Nae             | No                       | Determiner  |
+| Aet             | To                       | Particle    |
 | -ta             | _suf._ plural            | Suffix      |
 | Faera           | Fire/To burn             | Noun/Verb   |
 | Waera           | Water                    | Noun/Verb   |
@@ -34,3 +35,15 @@
 | Kzaeda          | To bring                 | Noun        |
 | Iz/Kaes/Zys     | Is/Was/Will              | Verb        |
 | Y/Ym/Ymz        | I/me/we                  | Pronoun     |
+| Shyraet         | Council/Meeting (formal) | Noun        |
+| Kaet            | Cat                      | Noun        |
+| Dzad            | Dog                      | Noun        |
+| Aeftet          | House                    | Noun        |
+| Eftwae          | Life _lit._ Waterflow    | Noun        |
+| Niurae          | Road _lit._ Sharp earth  | Noun        |
+| Yzay            | Raise/Grow               | Verb        |
+| Tziza           | High (position)          | Adjective   |
+| Hziza           | Low (position)           | Adjective   |
+| Waezaera        | To Sail _lit_ water-air  | Verb        |
+| Baeda           | Boat                     | Noun        |
+| Embaeda         | Ship                     | Noun        |
