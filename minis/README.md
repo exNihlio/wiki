@@ -60,6 +60,30 @@
 
 12. Highlight - Gehenna's Gold
 
+### Cado Ezechar
+1. Prime - White
+
+2. Armor - Retributor Armor
+
+3. Cloak - Kabalite Green
+
+4. Cloak - Sybarite Green
+
+5. Skin - Russ Grey
+
+6. Skin - Fenrisian Grey
+
+7. Highlight Armor - Gehenna's Gold
+
+8. Weapon - Iron Warrior
+
+9. Weapon Hilt - Flesh Tearer's Red
+
+10. Highlight Weapon - Canoptek Alloy
+
+11. Leather - Snakebite Leather
+
+12. Leather -  Ratling Grime
 ### Iridescent Metal
 
 1. Prime - Black
