@@ -84,6 +84,7 @@
 11. Leather - Snakebite Leather
 
 12. Leather -  Ratling Grime
+
 ### Iridescent Metal
 
 1. Prime - Black
@@ -119,6 +120,48 @@
 
 7. Armor - Leadbelcher
 
+### Solar Auxilia - Legion Imperialis
+
+1. Prime beige white
+
+2. Base - Fenrisian Grey
+
+3. Hands - Ahriman Blue
+
+4. Accent - Vallejo Royal Purple
+
+5. Accent - Trollslayer Orange
+
+6. Accent - Evil Sunz Red
+
+### Alpha Legion
+
+1. Prime Vallejo White
+
+2. Base - Vallejo Abyssal Turquoise
+
+3. Highlight - Turquoise
+
+4. Metal - Retributor Armor
+
+5. Metal - Iron Warriors
+
+6. Metal - Vallejo Gun Metal
+
+7. Accent - AK Shadow Flesh
+
+8. Treads, shoulder pads etc - Corvus Black
+
+### Battleworn Black Armor
+
+1. Basecoat black
+
+2. Wash in rust red
+
+3. Highlight grey
+
+4. Drybrush in metal
+
 ### Battletech - Blue
 1. Prime - Tamari Light Grey
 
@@ -129,6 +172,7 @@
 4. Highlight - Ocean Grey
 
 5. Trim - Dunkelgelb?
+
 ## Bases
 
 ### Tau Desert Base
@@ -138,3 +182,25 @@
 2. Wash - Agrax Earthshade
 
 3. Drybrush - Tyrant Skull
+
+### Solar Auxilia - Legion Imperialis
+
+1. Base - Vallejo Royal Purple
+
+2. Fill in - Sotek Green
+
+3. Fill in - Emperor's Children
+
+4. Fill in - Mix in Screamer Pink/Emperor's Children
+
+### Alpha Legion - Legion Imperialis
+
+1. Base - Dawnstone
+
+2. Base - Rakarth Flesh
+
+3. Shade - Agrax Earthshade
+
+4. Drybrush - Celestra Grey
+
+5. Metal - Necron Compound
