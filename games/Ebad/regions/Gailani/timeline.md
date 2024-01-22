@@ -14,18 +14,18 @@ _-898 GC/17,575 IA_ - The bloodwitch Líach is executed by the
 Ardaanian empire and her ashes are bound into an Ardaanian
 canoptic pain jar.
 
-_-727 GC/17,746_ -  First Gailani War of Múarch.
+_-727 GC/17,746 IA_ -  First Gailani War of Múarch.
 
-_-720 GC/17,753_ - The Gailani rebellion leaders are all captured
+_-720 GC/17,753 IA_ - The Gailani rebellion leaders are all captured
 and executed by the Ardaanian inquisitor Sethmora.
 
-_-617 GC/17,856_ - A meteorite streaks across the Gailani sky,
+_-617 GC/17,856 IA_ - A meteorite streaks across the Gailani sky,
 impacting in the ocean outside of the coastal city of Mathdanin.
 The resulting tidal wave floods the entire city killing thousands.
 
-_-545 GC/17,928_ - The Second Gailani War of Múarch begins.
+_-545 GC/17,928 IA_ - The Second Gailani War of Múarch begins.
 
-_-544 GC/17,929_ - The Second Gailani War of Múarch ends when its
+_-544 GC/17,929 IA_ - The Second Gailani War of Múarch ends when its
 leader Cén can Tord is betrayed by his most trusted lieutenant,
 Maroch.
 
