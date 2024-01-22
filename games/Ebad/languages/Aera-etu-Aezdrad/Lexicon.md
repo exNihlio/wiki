@@ -36,6 +36,12 @@
 | Iz/Kaes/Zys     | Is/Was/Will              | Verb        |
 | Y/Ym/Ymz        | I/me/we                  | Pronoun     |
 | Shyraet         | Council/Meeting (formal) | Noun        |
+| Myzra           | Mirror                   | Noun        |
+| Kzu             | False _lit._ Untrue      | Adjective   |
+| Zu              | True                     | Adjective   |
+| Lehd            | Mouth                    | Noun        |
+| Lehdzua         | Truth  _lit._ True-mouth | Verb        |
+| Lehdkzua        | Lie    _lit._ False-mouth| Verb        |
 | Kaet            | Cat                      | Noun        |
 | Dzad            | Dog                      | Noun        |
 | Aeftet          | House                    | Noun        |
@@ -44,6 +50,6 @@
 | Yzay            | Raise/Grow               | Verb        |
 | Tziza           | High (position)          | Adjective   |
 | Hziza           | Low (position)           | Adjective   |
-| Waezaera        | To Sail _lit_ water-air  | Verb        |
+| Waezaera        | To Sail _lit._ water-air | Verb        |
 | Baeda           | Boat                     | Noun        |
 | Embaeda         | Ship                     | Noun        |
