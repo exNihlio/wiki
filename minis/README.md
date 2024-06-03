@@ -162,6 +162,14 @@
 
 4. Drybrush in metal
 
+### Orruks
+
+1. Prime light grey or white.
+
+2. Armor: Mix Vallejo Scarlet Red/GW Corvus Black
+
+3. Skin: Mix Vallejo Scurvy Green/GW Dark Reaper
+
 ### Battletech - Blue
 1. Prime - Tamari Light Grey
 
