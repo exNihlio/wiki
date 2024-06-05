@@ -1,3 +1,3 @@
 ## Contents
 
-1. [Rules](/games/Shattered-Knights/rules/README.md)
+1. [Rules](/games/Soul-of-Iron/rules/README.md)

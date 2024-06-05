@@ -2,7 +2,7 @@
 
 1. [Ebad](/games/Ebad/README.md)
 
-2. [Shattered Knights](/games/Shattered-Knights/README.md)
+2. [Soul of Iron](/games/Soul-of-Iron/README.md)
 
 ## Game Ideas
 
