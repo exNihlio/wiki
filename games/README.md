@@ -2,6 +2,8 @@
 
 1. [Ebad](/games/Ebad/README.md)
 
+2. [Shattered Knights](/games/Shattered-Knights/README.md)
+
 ## Game Ideas
 
 ### Time Traveling
