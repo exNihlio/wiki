@@ -152,6 +152,28 @@
 
 8. Treads, shoulder pads etc - Corvus Black
 
+### Horus Titans
+
+1. Base Vallejo Grey/White
+
+2. Base Gunmetal/Leadbelcher
+
+3. Base Screamer Pink
+
+4. Pink: Emperor's Children => Squid Pink
+
+5. Lilac: 2/3 Emperor's Children + 1/3 Teclis Blue
+
+### Loyalist Titans
+
+1. Base Vallejo Grey/White
+
+2. Base Gunmetal/Leadbelcher
+
+3. Teal: 
+
+### House Briareus Knights
+
 ### Battleworn Black Armor
 
 1. Basecoat black
