@@ -21,6 +21,16 @@ alien toads, the only creatures seemingly immune to the body warping effects of 
 
 | Roll  | Room                                                                                                                             |
 |-------|----------------------------------------------------------------------------------------------------------------------------------|
-| 11    | This room is filled with thick ropes of pale quivering flesh, oozing sweat and blood. Here and there the odd eyeball follows you.|
-| 12    | Four-fold refractory. This room has a single entrance, but walking out of the room leads to somewhere else entirely.             |
-| 13    | Reclamation pits. This massive chamber is filled with surging vats of chemicals, surging and reclaiming _something_. It certainly has an absolutely unique smell.            |
+| 11    | The flesh webs. This room is filled with thick ropes of pale quivering flesh, oozing sweat and blood. Here and there the odd eyeball follows you. Touching the ropes causes one of them to strike the player, dealing 1d3 points of stamina damage.|
+| 12    | Four-fold refractory. This room has a single entrance, but walking out of the room leads to somewhere else entirely. Leaving this room will lead another randomly generated room. Returning from that entrance will lead back to this room and leaving again will exit.|
+| 13    | Reclamation pits. This massive chamber is filled with surging vats of chemicals, surging and reclaiming _something_.  It certainly has an absolutely unique smell.|
+| 14    | The Flower Beds. This room has 1d6 large flowers in it, growing out of the floor and along the ground. The mouthes of the flowers are large and strangely inviting. If a player falls asleep in one of the flowers then they regain 2d6+2 points of stamina and lose a memory of the GM's choice. |
+| 15    | Toad Market. Rows and rows of stalls here, selling various chemicals, potions, salves and unguents promising a variety of effects. Some of them might even work. |
+| 16    | Cargo elevator filled with mushrooms. Where does it lead? |
+| 21    | Slide-chute of spiders. Don't get bitten.
+| 22    | Muck-dungeon. 2d6 cells, filled with living or prisoners. They plead for release and the guard (NPC table), seems rather eager for you leave quickly. |
+| 23    | Multi-species bathroom. This room is filled with various toilets and stalls, all configured for a species and creatures that you've never seen before. None seem to something that is compatible with your anatomy. The room smells faintly of lavender and sulphur. |
+| 24    | Hallucinogenic gas chamber. Roll a ${check}. Failure results in a -1 modifier to all checks for the next 2 hours as you see the most wondrous visions of brightly colored tentacled beasts. |
+| 25    | The room which breathes and bleeds. The wall in this room inhale and exhale in the most unsettling way and the edges of the wall slowly sseep blood. There is a vague scent of bile in the air. |
+| 26    | Dimensional arboreteum. This room appears to be a greenhouse for a variety alien plants. Rows and rows of various plants, crops and suculents sit in metal shelves and the air is hot and moist. |
+| 31    |
