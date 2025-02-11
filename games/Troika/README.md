@@ -23,4 +23,4 @@ alien toads, the only creatures seemingly immune to the body warping effects of 
 |-------|----------------------------------------------------------------------------------------------------------------------------------|
 | 11    | This room is filled with thick ropes of pale quivering flesh, oozing sweat and blood. Here and there the odd eyeball follows you.|
 | 12    | Four-fold refractory. This room has a single entrance, but walking out of the room leads to somewhere else entirely.             |
-| 13    | Reclamation pits. This massive chamber is filled with surging vats of chemicals, surging and reclaiming _something_.             |
+| 13    | Reclamation pits. This massive chamber is filled with surging vats of chemicals, surging and reclaiming _something_. It certainly has an absolutely unique smell.            |
